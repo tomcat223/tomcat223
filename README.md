@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tomcat223
+- I used to be a building designer.
+- 🌱 I’m currently learning Solidity
+- interest in blockchain and Web3
+- I aspire to become a smart contract engineer.
