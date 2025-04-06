@@ -8,6 +8,7 @@ A passionate developer from **China** who loves building the future with **block
 
 ## 🛠️ Skills & Interests  
 - **Tech**: Blockchain, Rust, Move, Solidity.  
+- **Tools**: VS Code, Git, Remix, Truffle, Hardhat, Metamask.  
 
 ## 🚀 What I’m Working On  
 I’m diving deep into **Rust**, **Move**, and **Solidity**, with a passion for **blockchain smart contract development**. Expect some exciting projects soon as I explore this space!  
@@ -17,4 +18,4 @@ I’m diving deep into **Rust**, **Move**, and **Solidity**, with a passion for 
 - When I’m not coding, I’m sipping tea 🍵 and brainstorming new ideas.  
 
 ## 📱 Connect with Me  
-- [邮箱](mailto:370573243@qq.com)  
+- [E-Mail](mailto:370573243@qq.com)  
